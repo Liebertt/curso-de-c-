@@ -27,9 +27,8 @@ int main (){
     
     int var2; // receba o valor do var1
     cout << "\n ";
-    var2 = *pont1;
+    var2 = *pont1; // var2 recebe o valor apontado por pont1
     cout << var2;
-    
-    
+        
     return 0;
 }
